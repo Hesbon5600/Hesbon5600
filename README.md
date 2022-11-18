@@ -1,10 +1,7 @@
 # Hesbon Maiyo
 
 [![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/Hesbon5600)
-![Profile views](https://gpvc.arturio.dev/Hesbon5600)
-
 [![GitHub followers](https://img.shields.io/github/followers/Hesbon5600.svg?style=social&label=Follow)]
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hesbon%20Maiyo-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://hesbon.me/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hesbon-green?style=flat&logo=Upwork&logoColor=green&link=https://www.upwork.com/freelancers/~01cd4a3e225c09c1d4)](https://www.upwork.com/freelancers/~01cd4a3e225c09c1d4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesbon-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hesbon-kiptoo-maiyo/)](https://www.linkedin.com/in/hesbon-kiptoo-maiyo/)
