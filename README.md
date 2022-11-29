@@ -13,7 +13,8 @@
 
 ## 💼 Career
 
-- Software Engineer, Actuarial Services (E.A) Ltd, Nairobi ~ February, 2020 - Present
+- Senior Backend Engineer, Yoyo Wallet, UK ~ December, 2021 - Present
+- Software Engineer, Actuarial Services (E.A) Ltd, Nairobi ~ February, 2020 - May 2021
 - Backend Engineer, Ignite Binary, Nairobi ~ June 2020 - Dec 2020
 - Backend/Ops Engineer, Route Money, Nairobi ~ December, 2019 - April, 2020
 - Software Engineer, Andela, Nairobi ~ October, 2018 - October, 2019
