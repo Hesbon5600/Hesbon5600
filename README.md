@@ -9,7 +9,7 @@
 
 👋 Hello! I am an Innovative Programmer and Internet Entrepreneur striving to make the world a more unified and connected place. A creative thinker, adept in software development, and working with modern technologies
 
-`⏰ Last updated: 1st May, 2021`
+`⏰ Last updated: 1st Nov, 2022`
 
 ## 💼 Career
 
