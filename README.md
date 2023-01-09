@@ -45,7 +45,8 @@
   - ![MySQL](https://progress-bar.dev/89/?title=MySQL&width=90)
   - ![MongoDB](https://progress-bar.dev/87/?title=MongoDB&width=90)
 
+|   |   |
+|---|---|
+| [![Hesbon's github stats](https://github-readme-stats.vercel.app/api?username=Hesbon5600&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/Hesbon5600) | [![Hesbon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hesbon&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/Hesbon5600) |
 
-[![Hesbon's github stats](https://github-readme-stats.vercel.app/api?username=Hesbon5600&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/Hesbon5600)
-[![Hesbon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hesbon&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/Hesbon5600)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesbon5600&hide=jupyter%20notebook,css&langs_count=7)](https://github.com/Hesbon5600)
