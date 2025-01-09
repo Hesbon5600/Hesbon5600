@@ -23,27 +23,27 @@
 
 - Python
 
-  - ![Django-RF](https://progress-bar.dev/93/?title=Django-RF&width=90)
-  - ![Django](https://progress-bar.dev/92/?title=Django&width=90)
-  - ![Django-GraphQL](https://progress-bar.dev/93/?title=Django-GraphQL&width=90)
-  - ![Flask](https://progress-bar.dev/90/?title=Flask&width=90)
+  - ![Django-RF](https://progress-bar.xyz/95/?title=Django-RF)
+  - ![Django](https://progress-bar.xyz/95/?title=Django&width=90)
+  - ![Django-GraphQL](https://progress-bar.xyz/93/?title=Django-GraphQL&width=90)
+  - ![Flask](https://progress-bar.xyz/90/?title=Flask&width=90)
 
 - Javascript
-  - ![ReactJS](https://progress-bar.dev/71/?title=ReactJS&width=90)
-  - ![Redux](https://progress-bar.dev/70/?title=Redux&width=90)
-  - ![Angular](https://progress-bar.dev/50/?title=Angular&width=90)
+  - ![ReactJS](https://progress-bar.xyz/71/?title=ReactJS&width=90)
+  - ![Redux](https://progress-bar.xyz/70/?title=Redux&width=90)
+  - ![Angular](https://progress-bar.xyz/50/?title=Angular&width=90)
 - CI/CD
-  - ![Docker](https://progress-bar.dev/85/?title=Docker&width=90)
-  - ![Kubernetes](https://progress-bar.dev/80/?title=Kubernetes&width=90)
-  - ![GCP](https://progress-bar.dev/83/?title=GCP&width=90)
-  - ![AWS](https://progress-bar.dev/78/?title=AWS&width=90)
-  - ![DigitalOcean](https://progress-bar.dev/89/?title=DigitalOcean&width=90)
-  - ![CircleCI](https://progress-bar.dev/95/?title=CircleCI&width=90)
-  - ![TravisCI](https://progress-bar.dev/92/?title=TravisCI&width=90)
+  - ![Docker](https://progress-bar.xyz/85/?title=Docker&width=90)
+  - ![Kubernetes](https://progress-bar.xyz/80/?title=Kubernetes&width=90)
+  - ![GCP](https://progress-bar.xyz/83/?title=GCP&width=90)
+  - ![AWS](https://progress-bar.xyz/78/?title=AWS&width=90)
+  - ![DigitalOcean](https://progress-bar.xyz/89/?title=DigitalOcean&width=90)
+  - ![CircleCI](https://progress-bar.xyz/95/?title=CircleCI&width=90)
+  - ![TravisCI](https://progress-bar.xyz/92/?title=TravisCI&width=90)
 - Databases
-  - ![PostgreSQL](https://progress-bar.dev/90/?title=PostgreSQL&width=90)
-  - ![MySQL](https://progress-bar.dev/89/?title=MySQL&width=90)
-  - ![MongoDB](https://progress-bar.dev/87/?title=MongoDB&width=90)
+  - ![PostgreSQL](https://progress-bar.xyz/90/?title=PostgreSQL&width=90)
+  - ![MySQL](https://progress-bar.xyz/89/?title=MySQL&width=90)
+  - ![MongoDB](https://progress-bar.xyz/87/?title=MongoDB&width=90)
 
 |   |   |
 |---|---|
